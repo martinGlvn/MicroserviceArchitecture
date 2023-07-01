@@ -1,5 +1,3 @@
 # MicroserviceArchitecture
 
-" e
-
 - e
